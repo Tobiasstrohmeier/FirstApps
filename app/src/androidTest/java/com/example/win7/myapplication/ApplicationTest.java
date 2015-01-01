@@ -1,5 +1,5 @@
 package com.example.win7.myapplication;
-// Ein Kommentar hinzugefügt
+// Ein Kommentar hinzugefügt: eine Änderung
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
